@@ -6,19 +6,19 @@
  
  - ✍️**Agregar nombres:** Los usuarios pueden ingresar nombres en un campo de texto y hacer clic en **"Añadir"** para agregarlos a la lista.
  
-    ![Agregar nombre](./assets/readme/funcion1.png)
+    ![Agregar nombre](https://jeisonpachon18.github.io/desafio-amigo-secrerto/)
  
  - ❗**Validación de entrada:** Si el campo de texto está vacío o contiene caracteres no válidos, el sistema mostrará una alerta solicitando un nombre válido.
  
-    ![Alerta de validación](./assets/readme/funcion2.png)
+    ![Alerta de validación](https://jeisonpachon18.github.io/desafio-amigo-secrerto/)
  
  - 👀**Visualización dinámica:** Los nombres ingresados aparecerán en una lista actualizada automáticamente debajo del campo de entrada.
  
-    ![Lista de nombres](./assets/readme/funcion3.png)
+    ![Lista de nombres](https://jeisonpachon18.github.io/desafio-amigo-secrerto/)
  
  - 🎲**Sorteo aleatorio:** Al hacer clic en el botón **"Sortear Amigo"**, el sistema seleccionará aleatoriamente un nombre de la lista y lo mostrará en pantalla.
  
-    ![Resultado sorteo](./assets/readme/funcion4.png)
+    ![Resultado sorteo](https://jeisonpachon18.github.io/desafio-amigo-secrerto/)
  
  ## Comenzando 🚀
  
@@ -32,7 +32,7 @@
  
  1. Clona el repositorio en tu máquina local:
      ```bash
-     git clone https://github.com/Sodi0/challenge-amigo-secreto_esp-main.git
+     https://github.com/JeisonPachon18/desafio-amigo-secrerto.git
      ```
  
  2. Navega al directorio del proyecto:
